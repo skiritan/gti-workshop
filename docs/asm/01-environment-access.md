@@ -26,8 +26,8 @@
 
 
 
-５．画面左上の表示が Attack Surface Management となり、ASM 画面に移動していることを確認します
+５．画面左上の表示が Attack Surface Management となり、ASM 画面に移動していることを確認します。
 
 ![image-20250311180539290](images/image-20250311180539290.png)
 
-６．このステップは終了です。[次のステップ](./02-configuration-check) に移動します
+６．このステップは終了です。[次のステップ](./02-configuration-check) に移動します。
