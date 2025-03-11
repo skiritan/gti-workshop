@@ -1,8 +1,8 @@
-# Attack Surface Management ハンズオン
+# ASM / DTM 機能コース
 
-Mandiant Attack Surface Management (ASM) ハンズオンにようこそ！ 
+Mandiant Attack Surface Management (ASM) コース
 
-本ハンズオンでは ASM を用いて、実際の画面を操作します。参加者の組織に関連するアタックサーフェス(攻撃対象領域)を確認することで、ASM の具体的な活用方法を体験いただきます。
+このコースでは、ASM機能 = 組織に関連するアタックサーフェス(攻撃対象領域)の確認、DTM機能 = ダークウェブへの露出情報を確認します。 
 
 ## Mandiant ASM の機能
 
@@ -24,11 +24,11 @@ Mandiant Attack Surface Management (ASM) ハンズオンにようこそ！
   運用に役立つ機能や、動作の仕組みを確認します
 - **ステップ６- まとめ** 
 
-ステップ１～６の想定時間は、約40分です。
+
 
 !!! warning
     このハンズオンで確認できるアタックサーフェスの情報は ASM の活用方法の体験を目的としており、アタックサーフェスの情報提供自体を目的としたものではありませんのでご注意ください。
 
 
 
-[ステップ１](../01-environment-access) に移動します
+[ステップ１](./01-environment-access) に移動します

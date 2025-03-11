@@ -32,7 +32,8 @@ markdown_extensions:
 nav:
   - 概要: 'index.md'
   - 'ASM / DTM 機能': 
-    - '1.1. ASMへのアクセス': '01-environment-access.md'
+    - '1.1. ASM概要': 'asm_index.md'
+    - '1.2. ASMへのアクセス': '01-environment-access.md'
   - 'MATI / VT 機能': 
     - '1.1. VTへのアクセス': '01-environment-access.md'
 
