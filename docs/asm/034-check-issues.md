@@ -42,7 +42,7 @@
 
 
 !!! memo
-    GoogleTI の脅威インテリジェンスの機能は、GoogleTI Enterprise 以上のライセンスで利用可能です。
+    GoogleTI の脅威インテリジェンスの連携機能は、GoogleTI Enterprise 以上のライセンスで利用可能です。
 
 
 
